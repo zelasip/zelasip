@@ -1,16 +1,22 @@
-## Hi there 👋
+# ⚡ Terminal.exe --profile [Adın]
 
-<!--
-**zelasip/zelasip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hello%20World&fontSize=70" />
+</p>
 
-Here are some ideas to get you started:
+## 🛠️ Sistem Bilgileri & Yetenekler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class Developer:
+    def __init__(self):
+        self.name = "[Adın]"
+        self.role = "Software Developer"
+        self.languages = ["Rust", "Python", "TypeScript"]
+        self.tools = ["Tauri", "Tokio", "Git", "Docker"]
+        self.current_goal = "High-performance system apps"
+
+    def say_hi(self):
+        print("Karmaşık sorunlara basit çözümler üretmeyi seviyorum.")
+
+me = Developer()
+me.say_hi()
