@@ -29,7 +29,7 @@
 ### 🧩 Toolkit
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,py,discord,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=rust,py,discord" />
   </a>
 </p>
 
