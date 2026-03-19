@@ -28,7 +28,7 @@
 
 ### 🧩 Toolkit
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://discord.com/users/zelasip">
     <img src="https://skillicons.dev/icons?i=rust,py,discord" />
   </a>
 </p>
