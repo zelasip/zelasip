@@ -1,64 +1,40 @@
-
-````markdown
-# ⚡ Terminal.exe --profile Zelasip
+# ⚡ @Zelasip
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=39ff14&height=200&section=header&text=System%20Architect&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=1a1a1a&height=160&section=header&text=Software%20Developer&fontSize=60" />
 </p>
 
-## 🛠️ System Runtime & Core Skills
+### 🛠️ Tech Stack & Runtime
+- 🦀 **Rust:** Yüksek performanslı sistem araçları ve Tauri projeleri.
+- 🐍 **Python:** Otomasyon, yerel yapay zeka modelleri (Qwen, LLMs) ve hızlı prototipleme.
+- 🏗️ **Desktop:** Python'dan Rust'a (Tokio/Enigo) geçiş süreçleri.
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Zelasip"
-        self.languages = ["Rust", "Python", "TypeScript"]
-        self.frameworks = ["Tauri", "Tokio", "Enigo"]
-        self.current_focus = "High-performance Desktop Apps"
+---
 
-    def status(self):
-        return "Building ZxZeView: Migrating Python to Rust..."
+### 🚀 Ongoing Projects
+- **ZxZeView:** Python tabanlı yapıyı Rust ve Tauri ile modernize ediyorum.
+- **PC Automation:** Yerel modellerle bilgisayar kontrol sistemleri üzerinde çalışıyorum.
+- **Discord Architect:** Sunucu yapılandırmaları ve bot ekosistemleri.
 
-me = Developer()
-print(me.status())
-````
+---
 
------
+### 📊 GitHub Activity
+<p align="left">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zelasip&show_icons=true&theme=dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zelasip&layout=compact&theme=dark&hide_border=true" />
+</p>
 
-### 🚀 Geliştirme Sürecindeki Projeler
+---
 
-| Proje | Durum | Teknoloji |
-| :--- | :--- | :--- |
-| **ZxZeView** | 🏗️ Refactoring | `Rust` & `Tauri` |
-| **PC Automation AI** | 🧪 Araştırma | `Python` & `Local LLMs` |
-| **Discord Systems** | ✅ Yayında | `Node.js` |
+### 🧩 Toolkit
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,py,js,ts,tauri,discord,git,linux,docker,vscode" />
+  </a>
+</p>
 
------
+---
 
-### 📊 Yazılım Laboratuvarı (İstatistikler)
-
-\<p align="left"\>
-\<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[KullanıcıAdın]\&layout=compact\&theme=vision-glow\&hide\_border=true" /\>
-\<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D[KullanıcıAdın]\&show\_icons=true\&theme=vision-glow\&hide\_border=true" /\>
-\</p\>
-
------
-
-### 🧩 Tech Stack (Kullandığım Araçlar)
-
-\<p align="left"\>
-\<a href="https://skillicons.dev"\>
-\<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Drust,py,js,ts,discord,git,linux,docker,vscode,github,replit" /\>
-\</a\>
-\</p\>
-
------
-
-### 📫 İletişim Hattı
-
-> "Güvenli kod, hızlı kod; Rust ile hayat bulur."
-
-  - 🌐 **Discord:** `Zelasip`
-  - 🖥️ **GitHub:** `@[KullanıcıAdın]`
-
------
+<p align="right">
+  <code>while (code) { develop(); }</code>
+</p>
