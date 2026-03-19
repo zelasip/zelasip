@@ -62,12 +62,3 @@ print(me.status())
   - 🖥️ **GitHub:** `@[KullanıcıAdın]`
 
 -----
-
-```
-
----
-
-Bu kodun içinde **Rust ve Python** vurgusunu özellikle belirgin tuttum. Eğer `ZxZeView` dışında eklemek istediğin başka bir proje varsa tabloya ekleyebiliriz. 
-
-**İstatistik grafiklerinin renklerini (tema) değiştirmemi ister misin?**
-```
