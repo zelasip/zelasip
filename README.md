@@ -25,7 +25,3 @@
 </p>
 
 ---
-
-<p align="right">
-  <code>while (code) { develop(); }</code>
-</p>
