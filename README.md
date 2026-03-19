@@ -26,15 +26,6 @@
 
 ---
 
-### 🧩 Toolkit
-<p align="left">
-  <a href="https://discord.com/users/zelasip">
-    <img src="https://skillicons.dev/icons?i=rust,py,discord" />
-  </a>
-</p>
-
----
-
 <p align="right">
   <code>while (code) { develop(); }</code>
 </p>
