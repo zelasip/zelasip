@@ -13,13 +13,6 @@
 
 ---
 
-### 🚀 Ongoing Projects
-- **ZxZeView:** Python tabanlı yapıyı Rust ve Tauri ile modernize ediyorum.
-- **PC Automation:** Yerel modellerle bilgisayar kontrol sistemleri üzerinde çalışıyorum.
-- **Discord Architect:** Sunucu yapılandırmaları ve bot ekosistemleri.
-
----
-
 ### 🎮 Game Projects
 
 #### [MW2 Clone](https://github.com/zelasip/cod_clone)
