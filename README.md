@@ -6,8 +6,10 @@
 
 ### 🛠️ Tech Stack & Runtime
 - 🦀 **Rust:** Yüksek performanslı sistem araçları ve Tauri projeleri.
-- 🐍 **Python:** Otomasyon, yerel yapay zeka modelleri (Qwen, LLMs) ve hızlı prototipleme.
+- 🐍 **Python:** Otomasyon, yerel yapay zeka modelleri (Qwen, LMMs) ve hızlı prototipleme.
 - 🏗️ **Desktop:** Python'dan Rust'a (Tokio/Enigo) geçiş süreçleri.
+- 🎮 **C/Vulkan:** Oyun geliştirme, grafik programlama.
+- 📱 **Flutter/Dart:** Cross-platform mobil uygulamalar.
 
 ---
 
@@ -15,6 +17,27 @@
 - **ZxZeView:** Python tabanlı yapıyı Rust ve Tauri ile modernize ediyorum.
 - **PC Automation:** Yerel modellerle bilgisayar kontrol sistemleri üzerinde çalışıyorum.
 - **Discord Architect:** Sunucu yapılandırmaları ve bot ekosistemleri.
+
+---
+
+### 🎮 Game Projects
+
+#### [MW2 Clone](https://github.com/zelasip/cod_clone)
+Call of Duty: Modern Warfare 2 clone - Flutter + C/Vulkan tactical shooter
+- 🎯 9 iconic MW2 weapons
+- 🗺️ 7 multiplayer maps
+- 📖 10 campaign missions
+- 💀 6 killstreaks including Tactical Nuke
+- 🎮 10 game modes
+- 🤖 Full AI with A* pathfinding
+
+#### [MC Clone](https://github.com/zelasip/mc_clone)
+Minecraft clone - Flutter + C/Vulkan voxel game
+- 🌍 Infinite procedural world
+- 🧱 Block placement & mining
+- ⛏️ Crafting system
+- 🎲 Perlin noise terrain
+- 📦 Chunk-based loading
 
 ---
 
