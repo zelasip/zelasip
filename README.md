@@ -10,6 +10,7 @@
 - 🏗️ **Desktop:** Python'dan Rust'a (Tokio/Enigo) geçiş süreçleri.
 - 🎮 **C/Vulkan:** Oyun geliştirme, grafik programlama.
 - 📱 **Flutter/Dart:** Cross-platform mobil uygulamalar.
+- 🔧 **C++20:** Yüksek performanslı mühendislik yazılımları.
 
 ---
 
@@ -31,6 +32,21 @@ Minecraft clone - Flutter + C/Vulkan voxel game
 - ⛏️ Crafting system
 - 🎲 Perlin noise terrain
 - 📦 Chunk-based loading
+
+---
+
+### 🔧 Engineering Software
+
+#### [OpenNX](https://github.com/zelasip/OpenNX)
+Professional CAD/CAM/CAE platform - C++20 + Flutter
+- 🎨 **CAD** - Parametric modeling, sketch system, feature tree
+- ⚙️ **CAM** - Toolpath generation, post processing, verification
+- 📊 **CAE** - Simulation, mesh generation, material analysis
+- 📐 **Boolean Operations** - Union, Subtract, Intersect (CSG + B-Rep)
+- 🔧 **B-Rep Topology** - Edge, face, loop, shell, body management
+- 📱 **Multi-platform** - Linux, Windows, Android, iOS
+- 🔌 **Plugin SDK** - Extensible architecture
+- 📦 **156 files, 20K+ lines of code**
 
 ---
 
