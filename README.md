@@ -5,18 +5,18 @@
 </p>
 
 ### 🛠️ Tech Stack & Runtime
-- 🦀 **Rust:** Yüksek performanslı sistem araçları ve Tauri projeleri.
-- 🐍 **Python:** Otomasyon, yerel yapay zeka modelleri (Qwen, LMMs) ve hızlı prototipleme.
-- 🏗️ **Desktop:** Python'dan Rust'a (Tokio/Enigo) geçiş süreçleri.
-- 🎮 **C/Vulkan:** Oyun geliştirme, grafik programlama.
-- 📱 **Flutter/Dart:** Cross-platform mobil uygulamalar.
-- 🔧 **C++20:** Yüksek performanslı mühendislik yazılımları.
+- 🦀 **Rust:** High-performance system tools and Tauri projects.
+- 🐍 **Python:** Automation, local AI models (Qwen, LMMs) and rapid prototyping.
+- 🏗️ **Desktop:** Transitioning from Python to Rust (Tokio/Enigo).
+- 🎮 **C/Vulkan:** Game development, graphics programming.
+- 📱 **Flutter/Dart:** Cross-platform mobile applications.
+- 🔧 **C++20:** High-performance engineering software.
 
 ---
 
 ### 🎮 Game Projects
 
-#### [MW2 Clone](https://github.com/zelasip/cod_clone)
+#### [MW2 Clone](https://github.com/zelasip/OpenCOD)
 Call of Duty: Modern Warfare 2 clone - Flutter + C/Vulkan tactical shooter
 - 🎯 9 iconic MW2 weapons
 - 🗺️ 7 multiplayer maps
@@ -25,13 +25,21 @@ Call of Duty: Modern Warfare 2 clone - Flutter + C/Vulkan tactical shooter
 - 🎮 10 game modes
 - 🤖 Full AI with A* pathfinding
 
-#### [MC Clone](https://github.com/zelasip/mc_clone)
+#### [MC Clone](https://github.com/zelasip/OpenMC)
 Minecraft clone - Flutter + C/Vulkan voxel game
 - 🌍 Infinite procedural world
 - 🧱 Block placement & mining
 - ⛏️ Crafting system
 - 🎲 Perlin noise terrain
 - 📦 Chunk-based loading
+
+#### [OpenWolf](https://github.com/zelasip/OpenWolf)
+Wolfenstein-inspired FPS - C11 + Vulkan + SDL2
+- 🔫 Classic raycasting engine
+- 🎯 Enemy AI with patrol and combat
+- 🗺️ Multiple weapon types
+- 💥 AABB collision system
+- 🎵 Cross-platform audio
 
 ---
 
@@ -47,6 +55,18 @@ Professional CAD/CAM/CAE platform - C++20 + Flutter
 - 📱 **Multi-platform** - Linux, Windows, Android, iOS
 - 🔌 **Plugin SDK** - Extensible architecture
 - 📦 **156 files, 20K+ lines of code**
+
+---
+
+### 🛠️ Tools & CLI
+
+#### [Luminine CLI](https://github.com/zelasip/luminine-cli)
+Intelligent coding assistant CLI inspired by Claude Code
+- 🌙 Purple moon aesthetic interface
+- 📁 File system tools and text search
+- 🎯 Goal planning and task management
+- 🔧 Shell integration for system commands
+- 🤖 AI-powered coding assistance
 
 ---
 
